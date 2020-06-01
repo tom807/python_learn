@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#fix in ubuntu14
+#ubuntu14中
 import os
 import sys
 import numpy as np
