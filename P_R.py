@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 #fix in ubuntu14
 #forth edit, pycharm test git
+#fifth edit, pycharm test gitosc
 import os
 import sys
 import numpy as np
